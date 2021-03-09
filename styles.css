@@ -3,7 +3,10 @@
 }
 
 .logo {
-  /* background-image: url(logo.png); */
+  background-image: url(./branded_image.jpg);
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; /* Resize the background image to cover the entire container */
 }
 
 .progressBar {
@@ -11,7 +14,7 @@
 }
 
 .splash {
-  /* background-image: url(splash.png); */
+  background-image: url(./branded_image.jpg);
 }
 
 .watermark {
