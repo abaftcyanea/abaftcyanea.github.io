@@ -3,6 +3,7 @@
 }
 
 .logo {
+  height: 500px;
   background-image: url(./branded_image.jpg);
   background-position: center; /* Center the image */
   background-repeat: no-repeat; /* Do not repeat the image */
@@ -14,7 +15,11 @@
 }
 
 .splash {
+  height: 500px;
   background-image: url(./branded_image.jpg);
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; /* Resize the background image to cover the entire container */
 }
 
 .watermark {
